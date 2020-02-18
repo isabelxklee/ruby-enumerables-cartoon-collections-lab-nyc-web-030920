@@ -34,3 +34,5 @@ def find_the_cheese(array)
   end 
 
 end 
+
+puts find_the_cheese(array)
